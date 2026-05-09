@@ -12,6 +12,7 @@ Skills are auto-discovered from their `SKILL.md` and trigger when their descript
 |---|---|---|
 | **entity-territory-audit** | Audit the named-entity gap between a target URL and its top-ranked competitors. Surfaces the typed entities the page is missing, scored by priority. | [JuJu78/entity-territory-audit](https://github.com/JuJu78/entity-territory-audit) |
 | **writers-room** | Multi-agent editorial workshop that turns a brief into a publication-ready web article. Real Task-tool sub-agent orchestration, programmatic verification, self-extending mode catalog, persistent feedback loop. Outputs both Markdown and a self-contained HTML preview. | [JuJu78/writers-room](https://github.com/JuJu78/writers-room) |
+| **brand-coherence-audit** | Audit the discursive coherence of a brand or person across the web (owned site + off-site sources). Extracts structured claims from up to 15 sources, builds a cross-source coherence matrix, surfaces inconsistencies that hurt LLM citation likelihood (Generative Engine Optimization). | [JuJu78/brand-coherence-audit](https://github.com/JuJu78/brand-coherence-audit) |
 
 More skills land here as they are extracted from my private workflow and made generic enough to publish.
 
