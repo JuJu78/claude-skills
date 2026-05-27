@@ -1,4 +1,4 @@
-# Claude Code skills — catalogue
+# Claude skills SEO GEO — catalogue
 
 A growing collection of [Claude Code](https://docs.claude.com/claude-code) skills I publish open-source. Each skill is a self-contained agent workflow that turns a recurring editorial, SEO or brand-audit task into a one-line invocation inside a Claude Code session.
 
